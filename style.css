@@ -13,7 +13,7 @@ body{
     height: 100px;
 }
 .logo{
-    font-family: 'Palace Script MT';
+    font-family: 'Lucida Handwriting';
     font-size: 90px;
     color: white;
     font-weight: bold;
@@ -40,7 +40,7 @@ body{
     padding: 30px;
 }
 .headline{
-    font-family: 'Palace Script MT';
+    font-family: 'Lucida Handwriting';
     color: white;
     font-size: 60px;
 }
@@ -52,7 +52,7 @@ p{
     font-size: 20px;
 }
 .title{
-    font-family: 'Palace Script MT';
+    font-family: 'Lucida Handwriting';
     color: white;
     font-size: 90px;
     margin-top: 30px;
